@@ -1,6 +1,6 @@
 # Guia de Manutenção e Substituição de Painel LCD: LG Flatron M1721A / M1921A
 
-Este repositório é um guia prático dedicado à manutenção corretiva, preventiva e substituição do painel LCD dos monitores-TV **LG Flatron M1721A** (17 polegadas) e **M1921A** (19 polegadas). Amplamente documentados por portais clássicos da comunidade brasileira de retrocomputação — como o [Retrocomputaria (Retrópolis)](https://retropolis.com.br "Retrocomputaria"), [Tabajara Labs](https://blogspot.com "Tabajara Labs") e o blog de [Edson Kadoya](http://blogspot.com "Kadoya Vintage") —, estes monitores são considerados verdadeiras relíquias para preservação digital.
+Este repositório é um guia prático dedicado à manutenção corretiva, preventiva e substituição do painel LCD dos monitores-TV **LG Flatron M1721A** (17 polegadas) e **M1921A** (19 polegadas).
 
 ---
 
